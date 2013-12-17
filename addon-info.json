@@ -1,0 +1,8 @@
+{
+  "name" : "js-snippets",
+  "author" : "Alex Aitken",
+  "maintainer" : "alex@alexaitken.com",
+  "repository" : {"type": "git", "url": "git://github.com/alexaitken/js-snippets.git"},
+  "dependencies" : { },
+  "description" : "additional js snippets"
+}
